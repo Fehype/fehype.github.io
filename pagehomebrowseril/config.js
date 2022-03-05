@@ -137,19 +137,19 @@ const CONFIG = {
       links: [
         {
           name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          link: 'https://youtu.be/dQw4w9WgXcQ',
         },
         {
           name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          link: 'https://youtu.be/dQw4w9WgXcQ',
         },
         {
           name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          link: 'https://youtu.be/dQw4w9WgXcQ',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'WOW',
+          link: 'https://youtu.be/D9G1VOjN_84',
         },
       ],
     },
